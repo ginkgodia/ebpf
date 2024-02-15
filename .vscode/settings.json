@@ -1,0 +1,18 @@
+{
+  "files.autoSave": "onFocusChange",
+  "go.buildOnSave": true,
+  "go.lintOnSave": true,
+  "go.vetOnSave": true,
+  "go.useLanguageServer": true,
+  "go.buildTags": "",
+  "go.buildFlags": [],
+  "go.lintFlags": [],
+  "go.vetFlags": [],
+  "go.coverOnSave": false,
+  "go.useCodeSnippetsOnFunctionSuggest": false,
+  "go.formatOnSave": true,
+  "go.formatTool": "goreturns",
+  "go.gocodeAutoBuild": true,
+  "go.goroot": "/Users/wuqingchang/.gvm/gos/go1.20.1",
+  "go.gopath": "/Users/wuqingchang/.gvm/pkgsets/go1.20.1/global",
+}

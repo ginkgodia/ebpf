@@ -1,0 +1,3 @@
+*.pem
+init.sh
+client.go
