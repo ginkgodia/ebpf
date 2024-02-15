@@ -1,4 +1,0 @@
-.vscode
-*.pem
-init.sh
-client.go
